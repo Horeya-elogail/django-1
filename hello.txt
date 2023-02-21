@@ -1,3 +1,9 @@
 
 
 print("hello python")
+
+
+
+
+	$ git config --global user.name "Horeya-elogail"
+	$ git config --global user.email horeya.elogail@gmail.com
